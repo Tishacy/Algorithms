@@ -17,3 +17,4 @@ This repository is to store some algorithm exercises, which is something like a 
   - Binary search
   - Calculate the n power of x
   - Fibonacci using matrix tricks
+- [`5 linear_regression.py`](./code/5%20linear_regression.py): Implementation of multivariable linear regression.
